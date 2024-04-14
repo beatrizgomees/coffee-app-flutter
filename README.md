@@ -48,10 +48,10 @@ Contributions to Coffee App are welcome! If you encounter any bugs, have suggest
 
 
 ### Design:
+#### The following design was used for implementation and inspiration
 https://dribbble.com/shots/22583596-Coffee-Shop-Mobile-Apps
 
 
-https://br.pinterest.com/pin/592434526013835835/
 
 ### Icons: https://www.flaticon.com/br
 
@@ -63,4 +63,5 @@ https://br.pinterest.com/pin/592434526013835835/
 <img height="500" src="https://github.com/beatrizgomees/coffee-app/assets/150337944/0771ff91-cb93-40c0-a5f5-c5c01a4a37d1" />
 <img height="500" src= "https://github.com/beatrizgomees/coffee-app/assets/150337944/30a3eebf-14bc-4dad-b32c-6c834ab43665"/>
 
+<img height="500" src="https://github.com/beatrizgomees/coffee-app/assets/150337944/48285061-1308-4696-80be-7842c65b9485"/>
 
