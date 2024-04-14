@@ -46,6 +46,18 @@ To run Coffee App on your local machine, follow these steps:
 
 Contributions to Coffee App are welcome! If you encounter any bugs, have suggestions for new features, or want to contribute code improvements, feel free to open an issue or submit a pull request on the GitHub repository.
 
+
+### Design:
+https://dribbble.com/shots/22583596-Coffee-Shop-Mobile-Apps
+
+
+https://br.pinterest.com/pin/592434526013835835/
+
+### Icons: https://www.flaticon.com/br
+
+### Packages: https://pub.dev/
+
+
 ## License
 <img height="500" src="https://github.com/beatrizgomees/coffee-app/assets/150337944/5ddee3fe-fe61-4682-8cec-a58eaca36c6c" />
 <img height="500" src="https://github.com/beatrizgomees/coffee-app/assets/150337944/0771ff91-cb93-40c0-a5f5-c5c01a4a37d1" />
