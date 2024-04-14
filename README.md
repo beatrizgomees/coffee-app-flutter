@@ -47,7 +47,8 @@ To run Coffee App on your local machine, follow these steps:
 Contributions to Coffee App are welcome! If you encounter any bugs, have suggestions for new features, or want to contribute code improvements, feel free to open an issue or submit a pull request on the GitHub repository.
 
 ## License
+<img height="500" src="https://github.com/beatrizgomees/coffee-app/assets/150337944/5ddee3fe-fe61-4682-8cec-a58eaca36c6c" />
+<img height="500" src="https://github.com/beatrizgomees/coffee-app/assets/150337944/0771ff91-cb93-40c0-a5f5-c5c01a4a37d1" />
+<img height="500" src= "https://github.com/beatrizgomees/coffee-app/assets/150337944/30a3eebf-14bc-4dad-b32c-6c834ab43665"/>
 
-![Screenshot_1713107243](https://github.com/beatrizgomees/coffee-app/assets/150337944/5ddee3fe-fe61-4682-8cec-a58eaca36c6c){ width=50px }
-![Screenshot_1713107448](https://github.com/beatrizgomees/coffee-app/assets/150337944/0771ff91-cb93-40c0-a5f5-c5c01a4a37d1){ width=50px }
-![Screenshot_1713104568](https://github.com/beatrizgomees/coffee-app/assets/150337944/30a3eebf-14bc-4dad-b32c-6c834ab43665){ width=50px }
+
