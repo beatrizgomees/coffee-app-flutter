@@ -45,7 +45,7 @@ class _DetailsCoffeePageState extends State<DetailsCoffeePage> {
                         icon: Icon(Icons.arrow_back, color: Colors.white),
                       ),
                     ),
-                    Column(
+                    const Column(
                       mainAxisAlignment: MainAxisAlignment.end,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: [
